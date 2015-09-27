@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Galactic Battles</string>
+    <string name="blank"></string>
+    <string name="new_game">New Game</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="save_game">Save Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_game">Galactic Battles</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back">back</string>
+
+</resources>
